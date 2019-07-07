@@ -1,0 +1,11 @@
+export const appLogoUri = require('./images/suttonLogo.png');
+export const approvedIconUri = require('./images/approved.png');
+export const addIconUri = require('./images/add.png');
+export const failureIconUri = require('./images/failure.png');
+export const listIconUri = require('./images/list.png');
+export const signoutUri = require('./images/signout.png');
+export const suttonLogoUri = require('./images/suttonLogo.png');
+export const closeUri = require("./images/close.png");
+export const barcodeUri = require("./images/barcode.png");
+export const pencilUri = require("./images/pencil.png");
+export const flashlightUri = require("./images/flashlight.png");
